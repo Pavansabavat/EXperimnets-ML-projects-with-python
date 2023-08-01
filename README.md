@@ -2,7 +2,7 @@
 
 
 #  Spotify  Music   Recommendation System 
-  Step 1: Create a Spotify Account
+Step 1: Create a Spotify Account
 For a Spotify developer account, you need an account at Spotify. If you don’t use Spotify, create an account. You don’t need to purchase any subscription to get your credentials. Once you have created an account at Spotify (or you already have one) log in to your account from your web browser.
 
 Step 2: Go to Your Spotify Developer Dashboard
